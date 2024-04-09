@@ -1,0 +1,11 @@
+.bar-container {
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center; 
+}
+
+.bar {
+    background: darkblue;
+    max-width: 100px;
+}
